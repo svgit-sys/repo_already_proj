@@ -446,3 +446,37 @@
   446  git log --pretty=medium
   447  git log --pretty=medium -3
   448  history > git_cmd.txt
+  449  git log --pretty=oneline
+  450  ls
+  451  git status
+  452  notepad file1.py
+  453  git status
+  454  git add .
+  455  git status
+  456  git commit -m "file1.py updated"
+  457  git log --pretty=oneline
+  458  git branch b1
+  459  git branch
+  460  git checkout b1
+  461  git status
+  462  history > git_cmd.txt
+  463  touch mydata.py
+  464  touch file1.py
+  465  notepad file1.py
+  466  git status
+  467  git add .
+  468  git status
+  469  git commit -m "Files updated from branch b1"
+  470  git status
+  471  git log --pretty=oneline
+  472  git branch
+  473  git checkout master
+  474  git status
+  475  git log --pretty=oneline
+  476  git log
+  477  git checkout b1
+  478  git status
+  479  git log --pretty=oneline
+  480  git checkout master
+  481  git log --pretty=oneline
+  482  history > git_cmd.txt
