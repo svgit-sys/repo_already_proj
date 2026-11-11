@@ -1,20 +1,3 @@
-   51  python file3.txt
-   52  notepad file3.txt
-   53  git add file3.txt
-   54  git status
-   55  git commit-m "file3.txt is commited"
-   56  git commit -m "file3.txt is commited"
-   57  git log --online
-   58  git log --oneline
-   59  git push
-   60  git push origin main
-   61  git status -s
-   62  touch file4.txt
-   63  git status -s
-   64  git add file4.txt
-   65  git status -s
-   66  notepad file4.txt
-   67  git status -s
    68  git commit -m "file4.txt is commited"
    69  git push 
    70  git status -s
@@ -498,3 +481,20 @@
   548  git branch -d b2
   549  git branch
   550  history > git_cmd.txt
+  551  git sttus
+  552  git status
+  553  git add .
+  554  cat file1.py
+  555  git checkout b1
+  556  git status
+  557  git add .
+  558  git status
+  559  git commit -m "M"
+  560  git status
+  561  git merge b2
+  562  git branch --merge
+  563  git branch --no-merge
+  564  git log --oneline --all --graph
+  565  git status --all
+  566  git status
+  567  history > git_cmd.txt
