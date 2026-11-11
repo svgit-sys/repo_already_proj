@@ -1,0 +1,427 @@
+    1  cd d\sandeep
+    2  ls
+    3  D:
+    4  cd /d
+    5  pwe
+    6  pwd
+    7  cd /sandeep
+    8  ls
+    9  cd sandeep
+   10  pwd
+   11  git config --global user.name "sandypramu"
+   12  git config --global user.emial "sandeep2331996@gmail.com"
+   13  git config --global --list
+   14  git clone [200~https://github.com/sandypramu/TEST-APPLICATION.git~
+   15  git clone https://github.com/sandypramu/TEST-APPLICATION
+   16  cd TEST-APPLICATION/
+   17  ls
+   18  git status
+   19  touch file1.txt
+   20  touch file2.txt
+   21  status
+   22  git status
+   23  git add file1.txt
+   24  git status
+   25  git add file2.txt
+   26  git status
+   27  notepad file1.txt
+   28  git status
+   29  gid restore file1.txt
+   30  git restore file1.txt
+   31  type file1.txt
+   32  notepad file1.txt
+   33  git status
+   34  gid add .
+   35  git add .
+   36  git commit -m "file1.txt, file2.txt are commited"
+   37  git config --global user.email "sandeep2331996@gmail.com"
+   38  git config --global user.name "sandypramu"
+   39  git commit -m "file1.txt, file2.txt are commited"
+   40  git status
+   41  git push
+   42  touch file3.txt
+   43  git status
+   44  git restore
+   45  git restore --staged file3.txt
+   46  git add file3.txt 
+   47  git status
+   48  git restore
+   49  git restore --staged file3.txt
+   50  git status
+   51  python file3.txt
+   52  notepad file3.txt
+   53  git add file3.txt
+   54  git status
+   55  git commit-m "file3.txt is commited"
+   56  git commit -m "file3.txt is commited"
+   57  git log --online
+   58  git log --oneline
+   59  git push
+   60  git push origin main
+   61  git status -s
+   62  touch file4.txt
+   63  git status -s
+   64  git add file4.txt
+   65  git status -s
+   66  notepad file4.txt
+   67  git status -s
+   68  git commit -m "file4.txt is commited"
+   69  git push 
+   70  git status -s
+   71  cd..
+   72  cd sandeep
+   73  /d
+   74  cd /d
+   75  cd sandeep
+   76  mkdir myapp1
+   77  git init
+   78  cd myapp1/
+   79  git init
+   80  touch f1.txt
+   81  touch f2.txt
+   82  touch file.html
+   83  git status
+   84  notepad .gitignore
+   85  git status
+   86  git add file.html
+   87  git status
+   88  git commit 
+   89  git log -p
+   90  git commit -m "file.html is commited"
+   91  git log -p
+   92  notepad file.html
+   93  git log -p
+   94  git status
+   95  git add file.html
+   96  git status
+   97  git log -p
+   98  git push file.html
+   99  git push
+  100  git configure user.name "sandypramu"
+  101  git config user.name "sandypramu"
+  102  git config user.email "sandeep2331996@gmail.com"
+  103  git push
+  104  git --oneling
+  105  git --oneling
+  106  git --oneline
+  107  git log --pretty=oneline
+  108  git log --pretty=short
+  109  git log --pretty=fully
+  110  git log --pretty=fuller
+  111  git log --pretty=full
+  112  git branch b1
+  113  git git log --oneline
+  114  git log --oneline
+  115  git checkout b1
+  116  touch myfile1.html
+  117  touch myfile2.html
+  118  git status
+  119  clear
+  120  ls
+  121  git add .
+  122  git commit -m "files are added"
+  123  git log --oneline
+  124  git checkout master
+  125  git log --oneline
+  126  git log --oneline all
+  127  git log --oneline --all
+  128  git log --oneline --graph --all
+  129  cd C:\myrepos\info_repo
+  130  cd /c 
+  131  cd /myrepos 
+  132  git -version
+  133  git -v 
+  134  cd /c
+  135  cd myrepos
+  136  pwd
+  137  cd firstrepo
+  138  cd firstrepo
+  139  git clone [200~https://github.com/hgstesting202-bot/app_repo.git~
+  140  ls
+  141  git clone https://github.com/hgstesting202-bot/app_repo.git
+  142  ls
+  143  cd app_repo
+  144  touch welcome.html
+  145  touch menubar.html
+  146  git status 
+  147  git add welcome.html
+  148  git status 
+  149  vi welcome.html
+  150  git status 
+  151  git add welcome.html 
+  152  git status -s 
+  153  vi welcome.html 
+  154  git status -s
+  155  git commit -m "welcome.html file added to repo"
+  156  git status -s
+  157  git add welcome.html
+  158  git status -s
+  159  git commit -m "welcome.html file changes added to repo"
+  160  git status -s
+  161  vi welcome.html
+  162  git status -s
+  163  git restore welcome.html
+  164  git status -s
+  165  git config --global user.name "hgstesting202-bot" 
+  166  git config --global user.email "hgstesting202@gmail.com" 
+  167  touch header.html footer.html content.html
+  168  git add .
+  169  git commit 
+  170  git status -s 
+  171  ls
+  172  vi welcome.html 
+  173  git commit --ammend welcome.html -m "Welcome.html ammended"
+  174  git commit --amend welcome.html -m "Welcome.html amended"
+  175  git status 
+  176  git log --oneline 
+  177  git reset --hard 2a69e32
+  178  git log --oneline 
+  179  git status 
+  180  ls
+  181  git log --oneline 
+  182  touch file1.html file2.html
+  183  git add . 
+  184  git status 
+  185  git commit -m "new status with file 1, file2
+  186  git commit -m "new status with file 1, file2"
+  187  git log --oneline
+  188  git reset --hard 2a69e32
+  189  git status 
+  190  ls
+  191  git reset --hard ffa8d41
+  192  ls
+  193  git log --oneline 
+  194  git push -u origin main
+  195  git push -u origin main
+  196  git push -u origin main
+  197  git push -u origin main
+  198  git remote -v
+  199  git config --global
+  200  git config --global user.name "hgstesting202-bot"
+  201  git config --global user.email "hgstesting202@gmail.com"
+  202  git config --global
+  203  git push -u origin main
+  204  cd ..
+  205  cd ..
+  206  mkdir info_repo
+  207  cd info_repo
+  208  git init 
+  209  touch file1.html file2.html file3.html
+  210  git status 
+  211  git add .
+  212  git commit -m "three files are added "
+  213  git status -s 
+  214  git remote add origin https://github.com/hgstesting202-bot/info_repository-.git
+  215  git push -u origin master 
+  216  git pull 
+  217  cat File1.html
+  218  git log --oneline 
+  219  touch file4.html
+  220  git add .
+  221  git commit -m "File4.html added "
+  222  git push 
+  223  vi file4.html
+  224  git add .
+  225  git commit -m "File4.html updated "
+  226  git log -p 
+  227  git log -2 
+  228  git log -2 
+  229  git log 2
+  230  git log --pretty=short 
+  231  git log --pretty=full
+  232  git log --pretty=fuller
+  233  git log --pretty=oneline
+  234  git status 
+  235  git push 
+  236  notepad .gitignore 
+  237  notepad .gitignore 
+  238  notepad .gitignore 
+  239  mkdir data 
+  240  git status 
+  241  git add. 
+  242  git status 
+  243  git add . 
+  244  git status 
+  245  git status 
+  246  notepad .gitignore
+  247  git status 
+  248  vi check.log 
+  249  git commit -m "Applied changes"
+  250  touch myfile.txt 
+  251  git status 
+  252  ls
+  253  git add data/check.log
+  254  git add data/checklog.log
+  255  git log --oneline
+  256  git branch b1 
+  257  git branches 
+  258  git branch 
+  259  git checkout b1 
+  260  git status 
+  261  touch Menubar.html 
+  262  git status 
+  263  git add Menubar.html 
+  264  git status 
+  265  git commit -m "Menubar.html added from b1" 4
+  266  git commit -m "Menubar.html added from b1" 
+  267  git status 
+  268  git log --oneline 
+  269  git checkout master 
+  270  git log --oneline
+  271  git log --oneline --all 
+  272  notepad Address.html 
+  273  notepad.exe Address.html 
+  274  start Address.html 
+  275  git config --list
+  276  git config --list "svgit-sys"
+  277  git config --global user.name "svgit-sys"
+  278  git config --global user.email "sv.git111191@gmail.com"
+  279  git config --list "svgit-sys"
+  280  git config --list
+  281  git config --global user.name "svgit-sys"
+  282  git config --global user.email "sv.git111191@gmail.com"
+  283  ped
+  284  pwd
+  285  cd d:
+  286  cd Trng/
+  287  cd GIT_Tutorials/
+  288  git clone https://github.com/svgit-sys/repo2.git
+  289  ls
+  290  cd repo2
+  291  touch file1.txt
+  292  touch file2.txt
+  293  touch file3.txt file4.txt
+  294  git status
+  295  git add file1.txt
+  296  git status
+  297  notepad file1.txt
+  298  git status
+  299  cat file1.txt
+  300  git restore file1.txt
+  301  cat file1.txt
+  302  git status
+  303  git commit -m "file1.txt added"
+  304  git status
+  305  notepad file1.txt
+  306  git status
+  307  git status -s
+  308  git add file2.txt
+  309  git status -s
+  310  git add file1.txt
+  311  git status -s
+  312  git status
+  313  git commit 
+  314  git status
+  315  git log
+  316  git status >> git_cmd.txt
+  317  script git_cmd.txt 
+  318  git status
+  319  notepad file1.txt
+  320  git status
+  321  git commit --ammend -m "Change3 ammend commit msg cmd"
+  322  git commit --ammend -m "Change3 ammend commit msg cmd"
+  323  git commit --ammend -m "Change3_ammend"
+  324  git commit --amend -m "Change3 ammend commit msg cmd"
+  325  git history
+  326  git add .
+  327  git add .
+  328  git status
+  329  git commit -m "file3 file4 added"
+  330  git status -s
+  331  history > git_cmd.txt
+  332  git log --oneline
+  333  git reset --hard 896da10
+  334  git log --oneline
+  335  ls
+  336  history > git_cmd.txt
+  337  ls
+  338  touch file2.txt
+  339  git add file2.txt
+  340  git  status
+  341  git restore --staged file2.txt
+  342  git  status
+  343  git add .
+  344  git status
+  345  git commit -m "file2 added"
+  346  git status
+  347  git push origin main
+  348  git push origin main
+  349  history > git_cmd.txt
+  350  notepad file1.txt
+  351  touch file1.txt
+  352  git status
+  353  git add file1.txt
+  354  git status
+  355  git commit -m "After Push file1.txt added"
+  356  git status
+  357  git push origin main
+  358  git status
+  359  history > git_cmd.txt
+  360  cd..
+  361  cd ..
+  362  mkdir repo1
+  363  cd repo1
+  364  git init
+  365  git status
+  366  touch t1.txt t2.txt t3.txt file1.py file2.py file3.py
+  367  ls
+  368  git add file1.py 
+  369  git add file2.py
+  370  git status
+  371  git add file3.py
+  372  git commit -m "Python files added"
+  373  git status
+  374  notepad .gitignore
+  375  git status
+  376  touch file4.py file5.py
+  377  git status
+  378  mkdir docs
+  379  git status
+  380  touch docs/mydata.pdf
+  381  git status
+  382  touch docs/docs_t1.txt
+  383  git status
+  384  touch docs/docs_t1.py
+  385  git status
+  386* 
+  387* git
+  388  git commit -m "files of py and pdf added"
+  389  git status
+  390  history > git_cmd.txt
+  391  git log
+  392  ls
+  393  touch images/img1.jpg
+  394  touch images/img2.jpg
+  395  ls
+  396  git sttatus
+  397  git status
+  398  git add .
+  399  git commit -m "gitingore modified"
+  400  git status
+  401  git status -u
+  402  touch info.txt
+  403  git status
+  404  git status
+  405  git status
+  406  git push origin master
+  407  git log --oneline
+  408  git commit -m "info.txt added"
+  409  git log --oneline
+  410  git add .
+  411  git status
+  412  git add .
+  413  git status
+  414  git commit -m "info.txt added"
+  415  git log --oneline
+  416  history > git_cmd.txt
+  417  git remote add origin https://github.com/svgit-sys/repo_already_proj.git
+  418  git status
+  419  git branch -M master
+  420  git status
+  421  git push -u origin master
+  422  git status
+  423  git log --oneline
+  424  history > git_cmd.txt
+  425  history > git_cmd.txt
+  426  history
+  427  history > git_cmd.txt
