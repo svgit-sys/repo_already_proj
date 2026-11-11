@@ -425,3 +425,24 @@
   425  history > git_cmd.txt
   426  history
   427  history > git_cmd.txt
+  428  git status
+  429  git status
+  430  git add .
+  431  git status
+  432  git add .
+  433  git status
+  434  git commit -m "Git_cmd.txt added"
+  435  git status
+  436  git log --oneline
+  437  git push origin master
+  438  git log --oneline
+  439  git log -2
+  440  history > git_cmd.txt
+  441  git log
+  442  git log --oneline -2
+  443  git log --oneline -3
+  444  git log --pretty=full
+  445  git log --pretty=short
+  446  git log --pretty=medium
+  447  git log --pretty=medium -3
+  448  history > git_cmd.txt
