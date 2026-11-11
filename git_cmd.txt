@@ -1,17 +1,3 @@
-  103  git push
-  104  git --oneling
-  105  git --oneling
-  106  git --oneline
-  107  git log --pretty=oneline
-  108  git log --pretty=short
-  109  git log --pretty=fully
-  110  git log --pretty=fuller
-  111  git log --pretty=full
-  112  git branch b1
-  113  git git log --oneline
-  114  git log --oneline
-  115  git checkout b1
-  116  touch myfile1.html
   117  touch myfile2.html
   118  git status
   119  clear
@@ -498,3 +484,17 @@
   600  git tag v1.0
   601  git log --oneline 
   602  history > git_cmd.txt
+  603  git status
+  604  git add .
+  605  git commit -m "updated gitcmd"
+  606  git status
+  607  git log --oneline --all
+  608  git push
+  609  git log --oneline --all
+  610  git push origin --tags
+  611  git tag -a v0.05 6c6f243 -f
+  612  git log --oneline --all --graph
+  613  git branch
+  614  git tag -a v0.01 8d9c60a -f
+  615  git push origin --tags
+  616  history > git_cmd.txt
