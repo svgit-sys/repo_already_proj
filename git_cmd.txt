@@ -1,22 +1,3 @@
-  156  git status -s
-  157  git add welcome.html
-  158  git status -s
-  159  git commit -m "welcome.html file changes added to repo"
-  160  git status -s
-  161  vi welcome.html
-  162  git status -s
-  163  git restore welcome.html
-  164  git status -s
-  165  git config --global user.name "hgstesting202-bot" 
-  166  git config --global user.email "hgstesting202@gmail.com" 
-  167  touch header.html footer.html content.html
-  168  git add .
-  169  git commit 
-  170  git status -s 
-  171  ls
-  172  vi welcome.html 
-  173  git commit --ammend welcome.html -m "Welcome.html ammended"
-  174  git commit --amend welcome.html -m "Welcome.html amended"
   175  git status 
   176  git log --oneline 
   177  git reset --hard 2a69e32
@@ -498,3 +479,22 @@
   653  git stash pop
   654  git commit -m "testes.py stash added"
   655  history > git_cmd.txt
+  656  git switch master
+  657  git commit -m "gitcmd b1 added"
+  658  git checkout master
+  659  git status
+  660  git add .
+  661  git commit -m "gitcmd b1 added"
+  662  git switch master
+  663  git status
+  664  git merge b1
+  665  git merge abort
+  666  git merge --abort
+  667  git restore --source=b1 --git_cmd.txt
+  668  git restore --source=b1 -- git_cmd.txt
+  669  git status
+  670  git add .
+  671  git status
+  672  git commit -m "update git_cmd from b1 to master"
+  673  git push
+  674  history > git_cmd.txt
