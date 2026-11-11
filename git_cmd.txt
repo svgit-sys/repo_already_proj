@@ -1,17 +1,3 @@
-  117  touch myfile2.html
-  118  git status
-  119  clear
-  120  ls
-  121  git add .
-  122  git commit -m "files are added"
-  123  git log --oneline
-  124  git checkout master
-  125  git log --oneline
-  126  git log --oneline all
-  127  git log --oneline --all
-  128  git log --oneline --graph --all
-  129  cd C:\myrepos\info_repo
-  130  cd /c 
   131  cd /myrepos 
   132  git -version
   133  git -v 
@@ -498,3 +484,17 @@
   614  git tag -a v0.01 8d9c60a -f
   615  git push origin --tags
   616  history > git_cmd.txt
+  617  git status
+  618  git add .
+  619  git commit -m "updated gitcmd"
+  620  git status
+  621  git push 
+  622  ls
+  623  notepad file1.py
+  624  git add .
+  625  git status
+  626  git commit -m "File1 changed for git diff"
+  627  git status
+  628  git log --oneline --all
+  629  git diff 8d9c60a 1e9e4d3
+  630  history > git_cmd.txt
