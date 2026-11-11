@@ -460,3 +460,41 @@
   460  git checkout b1
   461  git status
   462  history > git_cmd.txt
+  463  touch mydata.py
+  464  touch file1.py
+  465  notepad file1.py
+  466  git status
+  467  git add .
+  468  git status
+  469  git commit -m "Files updated from branch b1"
+  470  git status
+  471  git log --pretty=oneline
+  472  git branch
+  473  git checkout master
+  474  git status
+  475  git log --pretty=oneline
+  476  git log
+  477  git checkout b1
+  478  git status
+  479  git log --pretty=oneline
+  480  git checkout master
+  481  git log --pretty=oneline
+  482  history > git_cmd.txt
+  483  git log --oneline --all
+  484  ls
+  485  touch myfile.py
+  486  git add .
+  487  git status
+  488  git commit -m "added myfile.py"
+  489  git log
+  490  git log --oneline --all
+  491  git checkout b1
+  492  notepad file6.py
+  493  git add .
+  494  git satus
+  495  git status
+  496  git add .
+  497  git status
+  498  git commit -m "File6.txt added from b1"
+  499  git log --oneline --all
+  500  history > git_cmd.txt
